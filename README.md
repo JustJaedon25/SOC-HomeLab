@@ -1,4 +1,4 @@
-# SOC HomeLab
+# Blue Team SOC HomeLab
 Elastic Defend Detections
 
 ## Objective
