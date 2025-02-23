@@ -1,4 +1,4 @@
-# SOC-HomeLab
+# SOC HomeLab
 Elastic Defend Detections
 
 ## Objective
@@ -28,18 +28,23 @@ I created and configured this Elastic Detection HomeLab to establish a controlle
 
 ### Notable Steps
 Installation of Elastic EDR Agent on Kali VM.
+
 ![Screenshot 2025-02-22 174626](https://github.com/user-attachments/assets/df9d28c0-8a68-423b-8962-4f25baf21d43)
 
 Successful install. Service Running.
+
 ![Screenshot 2025-02-22 173631](https://github.com/user-attachments/assets/39f081e5-c629-4b72-9cbe-504393ef4e58)
 
 Configured nmap Detection Rule.
+
 ![Screenshot 2025-02-22 174204](https://github.com/user-attachments/assets/760e07d8-be37-493f-b0a8-52cb77203605)
 
 Triggering rule with nmap scans.
+
 ![Screenshot 2025-02-22 174410](https://github.com/user-attachments/assets/0cc9e51b-501b-4c0a-bb29-0ca19fc1eb4c)
 
 Dashboard of events.
+
 ![Screenshot 2025-02-22 175903](https://github.com/user-attachments/assets/faeb5eba-8afb-4fff-8a46-e5e7c41de41f)
 
 
